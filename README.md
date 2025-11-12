@@ -1,0 +1,2 @@
+# Simplecalcu
+java only
